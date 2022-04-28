@@ -57,6 +57,6 @@ Bolo zakázané použít následujúce funkcie:
 * volanie z rodiny fopen, fclose, fscanf, ... - práca so súbormi (dočasnými) nebola v tomto projekte žiadúca,
 * volanie funkcie exit - cieľom projektu bolo naučiť sa vytvoriť programové konštrukcie, ktoré dokážu spracovať neočakávaný stav programu a prípadne program ukončiť návratom z funkcie main.
 
-*Program musí vyhovovať štandardu ISO C99. Sú povolené iba hlavičkové súbory: stdio.h, stdlib.h, stdbool.h a prípadně: assert.h, errno.h a limits.h.*
+**Program musí vyhovovať štandardu ISO C99. Sú povolené iba hlavičkové súbory: stdio.h, stdlib.h, stdbool.h a prípadně: assert.h, errno.h a limits.h.**
 
 
